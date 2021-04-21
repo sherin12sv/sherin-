@@ -341,17 +341,17 @@ h2{
  .social {
 	 padding: 0 2px;
  }
- social span
+.social  span
  {
 	 height: 30px;
 	 width: 30px;
 	 text-align: center;
 	 font-size: 12px;
 	 line-height: 30px;
-	 border-radius: 50px;
+	 border-radius: 100px;
 	 transition: 0.3s;
  }
- }
+ 
  .social  span:hover
  {
 	 background: #1e90ff;

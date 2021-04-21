@@ -338,10 +338,10 @@ h2{
 	 margin: 20px 0 0 0;
 
  }
- .social a{
+ .social {
 	 padding: 0 2px;
  }
- .social a span
+ .social span
  {
 	 height: 40px;
 	 width: 40px;
@@ -351,7 +351,7 @@ h2{
 	 border-radius: 50px;
 	 transition: 0.3s;
  }
- .social a span:hover
+ .social  span:hover
  {
 	 background: #1e90ff;
  }

@@ -1,4 +1,4 @@
-﻿body{
+body{
 	
 	 margin:0px;
 	 padding:0;
@@ -80,7 +80,7 @@
 
   .tex
   {
-	font-family:sh;
+	font-family:Papyrus;
 	margin-top: 4vw;
 	font-size: 3vw;
 	color:#fff;
@@ -341,7 +341,7 @@ h2{
  .social {
 	 padding: 0 2px;
  }
-.social  span
+ .social  span
  {
 	 height: 30px;
 	 width: 30px;
@@ -351,15 +351,10 @@ h2{
 	 border-radius: 100px;
 	 transition: 0.3s;
  }
- 
  .social  span:hover
  {
 	 background: #1e90ff;
  }
-@font-face {
-	font-family: sh;
-	src:url(Merienda-Regular.ttf);
-	
- }
+
 
 

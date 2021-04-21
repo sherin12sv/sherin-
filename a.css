@@ -228,16 +228,7 @@ nav ul li{
 
 
 @media (max-width: 858px){
-  .social span
- {
-	 height: 30px;
-	 width: 30px;
-	 text-align: center;
-	 font-size: 12px;
-	 line-height: 30px;
-	 border-radius: 50px;
-	 transition: 0.3s;
- }
+  .
 	.tex{
 		font-size: 25px;
 	}
@@ -350,15 +341,16 @@ h2{
  .social {
 	 padding: 0 2px;
  }
- .social span
+ social span
  {
-	 height: 40px;
-	 width: 40px;
+	 height: 30px;
+	 width: 30px;
 	 text-align: center;
-	 font-size: 18px;
-	 line-height: 40px;
+	 font-size: 12px;
+	 line-height: 30px;
 	 border-radius: 50px;
 	 transition: 0.3s;
+ }
  }
  .social  span:hover
  {

@@ -80,7 +80,7 @@
 
   .tex
   {
-	font-family:Papyrus;
+	font-family:sh;
 	margin-top: 4vw;
 	font-size: 3vw;
 	color:#fff;
@@ -355,6 +355,10 @@ h2{
  {
 	 background: #1e90ff;
  }
-
+@font-face {
+	font-family: sh;
+	src:url(Merienda-Regular.ttf);
+	
+ }
 
 

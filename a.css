@@ -88,7 +88,7 @@ body{
 
 .q
 	 {
-	font-family:Mangal (Headings CS);
+	font-family:er;
 	margin-top: 1vw;  
 	font-size:1.4vw;
 	  color:white;
@@ -358,7 +358,19 @@ h2{
 
 @font-face
 {
-font-face:sh;
-src:url(Satisfy-Regular.ttf);
-
+	font-family: sh;
+	src: url(
+		font/Merienda-Regular.ttf
+	);
+	
 }
+
+@font-face
+{
+	font-family: er;
+	src: url(
+		font/RocknRollOne-Regular.ttf
+	);
+	
+}
+

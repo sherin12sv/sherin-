@@ -359,7 +359,6 @@ h2{
 @font-face
 {
 font-face:sh;
-src:Satisfy-Regular.ttf;
+src:url(Satisfy-Regular.ttf);
 
 }
-
